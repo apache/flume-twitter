@@ -1,0 +1,10 @@
+Release Notes - Flume Twitter - Version 2.0.0
+
+** Bug
+    *
+
+** Improvement
+    * [FLUME-3455] - Move the Twitter Source to its own repo.
+
+
+
